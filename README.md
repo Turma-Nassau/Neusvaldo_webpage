@@ -7,3 +7,6 @@ HTML;
 CSS;
 Javascript;
 Node.JS
+
+# Status do projeto
+Em construção.
