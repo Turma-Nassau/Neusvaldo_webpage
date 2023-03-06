@@ -3,7 +3,7 @@ Projeto criado para a matéria de Códigos de Alta Performance Web. Site de Curs
 # Funcionalidades
 Neste site, o usuário poderá assistir a aulas ao vivo ou gravadas do seu gosto de qualquer lugar e sem pagar nada.
 # Tecnologias utilizadas
-HTML
-CSS
-Javascript
+HTML;
+CSS;
+Javascript;
 Node.JS
