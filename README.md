@@ -6,7 +6,8 @@ Neste site, o usuário poderá assistir a aulas ao vivo ou gravadas do seu gosto
 HTML;
 CSS;
 Javascript;
-Node.JS
+Node.JS;
+SQL;
 
 # 🎯 Status do projeto
 Em construção.
